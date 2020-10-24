@@ -10,7 +10,8 @@
       <div class="row last-line">
 <!--        <div> Policy </div> | -->
         <div> <a href="https://paralelnipolis.cz" target="_blank"> Paralelni Polis </a> </div> |
-        <div> <a href="https://flyingcircuit.com" target="_blank"> Flying Circuit </a> </div>
+        <div> <a href="https://flyingcircuit.com" target="_blank"> Flying Circuit </a> </div> |
+        <div> <a href="https://github.com/bordel" target="_blank"> Github </a> </div>
       </div>
     </div>
   </footer>
