@@ -35,7 +35,8 @@
       </div>
 
     </div>
-    <Form></Form>
+      <h3> Bordel is not accepting new members </h3> 
+    <!-- <Form></Form> -->
     <div class="row">
       <h1> Rules </h1>
       <ol>
